@@ -212,6 +212,25 @@ h3 {
 	margin-bottom: 10px
 }
 
+.harga_lama{
+    text-decoration: line-through;
+    font-size: 20px;
+     margin: 0px !important;
+    padding: 0px !important;
+}
+
+.harga{
+    text-align: center;
+    font-weight: bold;
+}
+
+.h-promo{
+    font-size : 24px;
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+
 .vk-logo {
 	background: url(../img/vk-logo.png) no-repeat scroll 0 0 transparent;
 	width: 16px;
