@@ -455,6 +455,10 @@ p {
 }
 
 @media only screen and (max-width: 639px) {
+	.img-mobile{
+		float: none !important;
+		margin: 0 auto !important;
+	}
 	.navbar {
 		display: none
 	}
